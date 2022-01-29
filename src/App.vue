@@ -15,4 +15,8 @@ export default defineComponent({
 })
 </script>
 
-<style lang="less"></style>
+<style lang="less">
+.app {
+  color: red;
+}
+</style>
